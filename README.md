@@ -32,7 +32,7 @@ Testing comprehensive untuk website AutomationExercise.com yang mencakup:
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/[username]/qa-automation-exercise-portfolio
+git clone https://github.com/sierlyptri/QA-Portfolio
 
 # Setup Selenium tests
 cd automation/selenium-tests
